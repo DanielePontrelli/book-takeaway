@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background: black;
+    color: white;
+    height: 10vh;
+    padding: 30px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.rightContainer {
+    display: flex; 
+    align-items: center;
+}
